@@ -1,0 +1,15 @@
+body {
+    background-color: skyblue;
+}
+
+.friend {
+    background-color: aquamarine;
+}
+
+.friend p {
+    text-transform: uppercase;
+}
+
+h1 {
+    color: darkblue;
+}
